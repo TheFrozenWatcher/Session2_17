@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad576b31-b8c3-49dc-be79-2f26c5e422cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HN_JV230313_BS_NguyenQuangHung/HN_JV230313_BS_NguyenQuangHung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex2/SortingStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex3/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex4/FootballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex4/SortingMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session 2.16/src/Ex6/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2.17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session 1/Session 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session 1/Session 1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bnJzU05Qyt5avIVSB1KGfYCD8p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HUNG/IdeaProjects/Module 2 JAVA/Session 2.17/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Ex11">
+    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex10" />
+      <module name="Session 2.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex11" />
+      <module name="Session 2.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex7" />
+      <module name="Session 2.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex8" />
+      <module name="Session 2.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Ex9" />
+      <module name="Session 2.17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex11" />
+        <item itemvalue="Application.Ex10" />
+        <item itemvalue="Application.Ex9" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad576b31-b8c3-49dc-be79-2f26c5e422cf" name="Changes" comment="" />
+      <created>1706845173208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706845173208</updated>
+      <workItem from="1706845174669" duration="15059000" />
+      <workItem from="1708007026741" duration="1258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
